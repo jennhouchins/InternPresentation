@@ -190,7 +190,7 @@ Github repo:<br />
 .pull-right-wide[
 <br />
 .font90[
-**Visit my website:** (https://jenniferkhouchins.com) <br />
+**Visit my website:** https://jenniferkhouchins.com <br />
 **Follow me on Twitter:** [@TooSweetGeek](https://twitter.com/TooSweetGeek) <br />
 **Email me:** [jennifer.houchins@ncsu.edu](mailto:jennifer.houchins@ncsu.edu) 
 ]
