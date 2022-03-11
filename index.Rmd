@@ -67,16 +67,18 @@ xaringanExtra::use_tile_view()
 - Come from a VERY large family
 - Diagnosed with Type I Diabetes at 9 years old
 - What I wanted to be when I grew up changed everyday
- - teach Gorillas sign language, marine biologist, actress, the female version of Mr. Wizard, artist because Bob Ross
+ - teach Gorillas sign language, marine biologist, actress, the female version of Mr. Wizard, artist (because Bob Ross)
 
 ---
 class:clear, inverse, no-logo, center, middle
 
 # Lifelong Learner
---
 
-----
-"I'm going to go to school forever!"
+---
+class: clear, wolfhead
+.quote[
+.center["I'm going to go to school forever!"]]
+.author[~ Jenn, age 5]
 
 ---
 class:clear, inverse, no-logo, center, middle
@@ -101,6 +103,10 @@ class: no-logo
 # My Academic Path
 
 ![](img/path.png)
+
+---
+
+I don't have a lane...I have a river fed by tributaries!
 
 ---
 class: clear
@@ -155,3 +161,26 @@ class: clear
 background-image: url(img/knit2.jpg)
 background-position: 100% 100% 
 background-size: 100%
+
+---
+class: clear, middle, inverse
+
+.center[
+**Thank you!**
+
+.font90[If you'd like to learn more about the techniques used in this
+presentation you can get the R project from my
+Github repo:<br />
+<https://github.com/jennhouchins/InternPresentation>]
+
+
+.pull-left-narrow[.center[
+<img style="border-radius: 50%;" src="img/jenn.jpg" width="200px"/>]]
+.pull-right-wide[
+<br />
+.font90[
+**Visit my website:** (https://jenniferkhouchins.com) <br />
+**Follow me on Twitter:** [@TooSweetGeek](https://twitter.com/TooSweetGeek) <br />
+**Email me:** [jennifer.houchins@ncsu.edu](mailto:jennifer.houchins@ncsu.edu) 
+]
+]]
