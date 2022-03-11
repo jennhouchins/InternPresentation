@@ -149,6 +149,17 @@ background-size: 100%
 
 - Imposter Syndrome]
 
+---
+# Who I am now
+
+I don't fit into any one box. I am:
+
+- An educator
+- A researcher
+- A data scientist
+- A computer Scientist
+- An engineer
+- A maker
 
 ---
 class: clear
